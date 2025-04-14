@@ -16,7 +16,7 @@ This is an emotion-cause prediction model based on the RECCON dataset. Given a c
 - ## Task 2:
   -- Using the processed_train.csv and processed_test.csv generate annotated_output3.csv and annotated_output3_test.csv using task2.ipynb. These classify the clauses as emotion, clause, neither or both.
 - ## Task 3:
-  -- Using the processed_train.csv and processed_test.csv generate node_embeddings3.csv and node_embeddings_test3.csv using task3_embeddings.ipynb. These break down the clauses into numerical vector embeddings.
-  --  
-
+  --   Using the processed_train.csv and processed_test.csv generate node_embeddings3.csv and node_embeddings_test3.csv using task3_embeddings.ipynb. These break down the clauses into numerical vector embeddings.
+  --   Now using the above generated files, process task3_train.ipynb ( auxilliary files node_embeddings_svo and node_embeddings_svo_test.csv are generated which utilise subct verb object extraction). The final output after running the code would give a file called test_predictions.csv.
+  --   Using test_predictions.csv run task3_predictions.ipynb to get the final emotion_cause_prediction.ipynb
 
