@@ -1,0 +1,123 @@
+id,emotion,cause,speaker
+tr_9708_5_4 --> tr_9708_6_1,"Well , I'm really surprised .",Starting almost right after they married 20 years ago .,A --> B
+tr_9708_6_1 --> tr_9708_6_2,"You are not doing anything behind my back , are you ?","Well , I'm really surprised .",B --> B
+tr_9708_8_3 --> tr_9708_9_1,You are not funny either .,I guess that means - - except me to tell my lover we have stoped seeing each other too .,B --> A
+te_935_1_1 --> te_935_2_1,Cool !,I'm so glad I bought this watch !,A --> B
+te_935_2_1 --> te_935_2_2,Flashy red lines !,Cool !,B --> B
+te_935_2_2 --> te_935_3_1,I think this is the coolest watch I've ever owned .,Flashy red lines !,B --> A
+te_935_3_1 --> te_935_4_1,Is it waterproof ?,I think this is the coolest watch I've ever owned .,A --> B
+te_935_4_1 --> te_935_5_1,Isn't that a silly question ?,Is it waterproof ?,B --> A
+te_935_5_1 --> te_935_5_2,You know how much of an athlete I am .,Isn't that a silly question ?,A --> A
+te_935_5_2 --> te_935_6_1,"Uh , huh ...",You know how much of an athlete I am .,A --> B
+te_935_6_1 --> te_935_6_2,so what kind of sports do you need a waterproof watch for ?,"Uh , huh ...",B --> B
+te_935_6_2 --> te_935_7_1,"Well , surfing , scuba diving ...",so what kind of sports do you need a waterproof watch for ?,B --> A
+te_935_7_1 --> te_665_1_1,Hi !,"Well , surfing , scuba diving ...",A --> A
+te_665_1_1 --> te_665_1_2,I'm happy you could make it .,Hi !,A --> A
+te_665_1_2 --> te_665_2_1,"Well , I've been looking forward to seeing you .",I'm happy you could make it .,A --> B
+te_665_2_1 --> te_665_3_1,What can I get you ?,"Well , I've been looking forward to seeing you .",B --> A
+te_665_3_1 --> te_665_4_1,I'd love a gin and tonic .,What can I get you ?,A --> B
+tr_9573_3_1 --> tr_9573_3_2,What kind of phone card do you want ?,Cool phone .,A --> A
+tr_9573_3_2 --> tr_9573_8_1,That's nice .,What kind of phone card do you want ?,A --> B
+tr_9573_8_2 --> tr_9573_10_1,"Oh , good .",And I need a pre-paid phone card .,B --> B
+tr_9573_13_2 --> tr_10180_1_1,"Johnny , I can't believe you would do that .",As many as you want .,A --> A
+tr_10180_3_1 --> tr_10180_3_2,"Now , you're on housework duty while I'm here !","You're darn Toomin ' , you know !",A --> A
+tr_9306_3_1 --> tr_9306_7_1,that sounds good .,what are you going to try first ?,A --> A
+tr_9306_7_2 --> tr_9306_8_1,do you want to try some of my yogurt .,I'm going to start with an Italian tiramisu .,A --> B
+tr_9306_8_1 --> tr_9306_8_2,It's a favorite everyday dessert in Greece .,do you want to try some of my yogurt .,B --> B
+tr_9306_10_2 --> tr_9306_11_1,"it's nice , but it's rather plain .",How does it taste ?,B --> A
+tr_9306_11_1 --> tr_9306_11_2,Do you want to try my tiramisu ?,"it's nice , but it's rather plain .",A --> A
+tr_9306_11_2 --> tr_9306_12_1,sure .,Do you want to try my tiramisu ?,A --> B
+tr_9306_13_2 --> tr_9306_14_1,it's absolutely delicious !,Does it taste good ?,A --> B
+tr_9306_14_1 --> tr_9306_14_2,That is the best tiramisu I've ever had !,it's absolutely delicious !,B --> B
+tr_9306_14_2 --> tr_9306_15_1,I'm glad you like it .,That is the best tiramisu I've ever had !,B --> A
+tr_9306_15_2 --> tr_9306_15_3,Why don't you finish my tiramisu so that I can try one of those fried bananas ?,I don't care for it .,A --> A
+tr_9306_19_1 --> tr_9306_20_1,"yeah , why not ?","do you want me to get you one , too ?",A --> B
+te_416_6_1 --> te_416_6_2,"Sort of imitation wood , dark brown color , country-style you know , and the lids , if I remember rightly , they had a sort of leaf pattern , or was it flowers ?","Oh , they were lovely .",B --> B
+te_501_1_1 --> te_501_3_1,Splendid !,This Olympic park is so big !,A --> A
+te_501_3_1 --> te_501_3_2,When is it gonna be finished ?,Splendid !,A --> A
+te_501_6_1 --> te_501_7_1,I didn ' t know it would be so big !,"Oh , there are 5000 seats in total .",B --> A
+tr_8162_1_1 --> tr_8162_1_2,What ' s for breakfast ?,"Wow , you ' re up early today !",A --> A
+tr_8162_2_1 --> tr_8162_3_1,Smells good !,"Well , I felt like baking , so I made some muffins .",B --> A
+tr_8162_3_1 --> tr_8162_3_2,I ' ll make some coffee .,Smells good !,A --> A
+tr_8162_3_2 --> tr_8162_3_3,Do you want me to make you some eggs ?,I ' ll make some coffee .,A --> A
+tr_8162_4_1 --> tr_8162_5_1,"Www , I don ' t know how you can eat your eggs like that !","Sure , I'll take mine , sunny side up .",B --> A
+tr_8162_5_1 --> tr_8162_5_2,"Ever since I was small , I ' Ve had eggs and soldiers .","Www , I don ' t know how you can eat your eggs like that !",A --> A
+tr_8162_9_1 --> tr_8162_10_1,Dammit !,"Here you go , honey , fried eggs .",A --> B
+te_623_1_1 --> te_623_2_1,Josh and I were just on our way back home from the beach and thought we'd drop by .,"Mary , it's good to see you !",A --> B
+te_623_2_1 --> te_623_3_1,I am so glad that you decided to stop by !,Josh and I were just on our way back home from the beach and thought we'd drop by .,B --> A
+te_623_3_1 --> te_623_4_1,"Yes , it has been a long time since we have seen you .",I am so glad that you decided to stop by !,A --> B
+te_623_4_1 --> te_623_5_1,"Mary , can I get Josh or you something to drink ?","Yes , it has been a long time since we have seen you .",B --> A
+te_623_6_1 --> te_623_7_1,How about a little snack then ?,"Oh no , thank you .",B --> A
+tr_9911_1_1 --> tr_9911_2_1,It was nice talking to you too .,"Well , it was nice talking to you .",A --> B
+tr_9911_2_1 --> tr_9911_3_1,We should really hang out again .,It was nice talking to you too .,B --> A
+tr_9911_3_1 --> tr_9911_4_1,That would be fun .,We should really hang out again .,A --> B
+tr_9911_10_1 --> tr_7996_1_1,Do you know how late it is ?,"Okay , I'll talk to you later then .",B --> A
+tr_7996_1_1 --> tr_7996_2_1,My fault .,Do you know how late it is ?,A --> B
+tr_7996_2_1 --> tr_7996_2_2,I didn't realize what time it was .,My fault .,B --> B
+tr_7996_2_2 --> tr_7996_3_1,I hope you don't think that excuse lets you off the hook .,I didn't realize what time it was .,B --> A
+tr_7996_3_1 --> tr_7996_5_1,Haven't I asked you to call if you're going to be home late ?,I hope you don't think that excuse lets you off the hook .,A --> A
+tr_7996_7_1 --> tr_7996_9_1,"Come home late one more time , and you'll find your stuff outside .","Regardless , all you had to do was give a call .",A --> A
+tr_7996_9_1 --> tr_7996_10_1,You want to throw me out over this ?,"Come home late one more time , and you'll find your stuff outside .",A --> B
+tr_7996_11_1 --> tr_7996_12_1,"That's fine , because if I leave , then your rules won't matter .","That's right , maybe then you'll respect my rules .",A --> B
+te_612_3_1 --> te_612_3_2,Your calligraphy is very beautiful .,Wow !,A --> A
+te_612_3_3 --> te_612_4_1,Thank you .,It was worth the wait !,A --> B
+te_612_4_1 --> te_612_4_2,Today I'm writing a kind of poem called a Chinese couplet .,Thank you .,B --> B
+te_612_8_1 --> te_612_9_1,Really ?,No .,B --> A
+te_335_6_3 --> te_335_8_1,That ' s gorgeous !,Let ' s go in and try some things on .,B --> B
+te_335_11_3 --> te_335_12_1,This is perfect !,"they ' Ve got one in blue , green , pink , black ... and white .",A --> B
+tr_10410_6_3 --> tr_10410_7_1,I told you I ' m sorry .,It ' s no laughing matter .,B --> A
+te_198_2_1 --> te_198_3_1,"Well , the wrong information is in my file .","Let's see , sir .",B --> A
+te_198_3_1 --> te_198_3_2,I was at a concert Monday night .,"Well , the wrong information is in my file .",A --> A
+te_198_6_1 --> te_198_7_1,Am I in the Twilight Zone ?,"Sir , I deleted the $ 10 , but I had to add a $ 2 service charge to your bill .",B --> A
+te_198_7_1 --> te_198_7_2,You're charging me for a movie I never saw ?,Am I in the Twilight Zone ?,A --> A
+te_198_8_1 --> te_198_9_1,This is highway robbery .,"Please don't blame me , sir .",B --> A
+te_198_9_1 --> te_198_9_2,I've got a good mind to call the police !,This is highway robbery .,A --> A
+te_198_10_1 --> te_700_1_1,Why didn't you tell me you had a girlfriend ?,"If it makes you feel any better , other guests feel the same way .",B --> A
+te_700_1_1 --> te_700_3_1,But you should have told me you were in love with her .,Why didn't you tell me you had a girlfriend ?,A --> A
+te_700_3_1 --> te_700_5_1,You know you didn't .,But you should have told me you were in love with her .,A --> A
+te_700_5_1 --> te_700_7_1,"Yes , but you might have told me before .",You know you didn't .,A --> A
+te_700_7_1 --> te_700_9_1,You can't be serious .,"Yes , but you might have told me before .",A --> A
+te_700_9_1 --> te_700_9_2,How dare you not tell me you were going to marry her ?,You can't be serious .,A --> A
+tr_9974_3_1 --> tr_9974_3_2,It's filthy !,What's wrong with it ?,A --> A
+tr_9974_5_1 --> tr_9974_6_1,"Sorry , love .",It's filthy because you never wipe your shoes .,A --> B
+tr_10709_8_1 --> tr_10709_9_1,I also hate having to stand at a bus stop in all kinds of weather .,That's right .,B --> A
+te_739_1_1 --> te_739_3_1,Because they are too violent .,I hate computer games .,A --> A
+te_739_3_1 --> te_739_3_2,Some of them are even disgusting .,Because they are too violent .,A --> A
+te_739_4_1 --> te_739_5_1,"If boys grow up with computer games , they will surely become bad .",Indeed there are bad games .,B --> A
+tr_10606_1_2 --> tr_10606_2_1,"Sure , here you go .","You don't have a pen , do you ?",A --> B
+tr_10606_2_1 --> tr_10606_3_1,Thanks .,"Sure , here you go .",B --> A
+tr_10606_3_1 --> tr_10606_3_2,"I don't suppose you have some paper , too .",Thanks .,A --> A
+tr_10606_3_2 --> tr_10606_4_1,Of course .,"I don't suppose you have some paper , too .",A --> B
+tr_10606_4_1 --> tr_10606_4_2,There you are .,Of course .,B --> B
+tr_10606_4_2 --> tr_10606_5_1,Thanks so much .,There you are .,B --> A
+tr_10606_5_1 --> tr_10606_5_2,I owe you one .,Thanks so much .,A --> A
+te_587_1_1 --> te_587_2_1,"Hello , welcome to Universal Bank .","Stupid girl , making me spend so much money , now I have to get it from the ATM ...",A --> B
+te_587_2_1 --> te_587_2_2,Please insert your card into the slot .,"Hello , welcome to Universal Bank .",B --> B
+te_587_2_2 --> te_587_3_1,I know where to put my card !,Please insert your card into the slot .,B --> A
+te_587_3_1 --> te_587_3_2,"Stupid machine , talking to me like I ' m an idiot ...",I know where to put my card !,A --> A
+te_587_3_2 --> te_587_4_1,Please input your 6 digit PIN code followed by the pound key .,"Stupid machine , talking to me like I ' m an idiot ...",A --> B
+te_587_4_1 --> te_587_4_2,Thank you .,Please input your 6 digit PIN code followed by the pound key .,B --> B
+te_587_4_2 --> te_587_4_3,Please select an option .,Thank you .,B --> B
+te_587_4_3 --> te_587_4_4,Thank you .,Please select an option .,B --> B
+te_587_4_4 --> te_587_4_5,You have selected withdrawal .,Thank you .,B --> B
+te_587_4_5 --> te_587_5_1,"Yeah , yeah ,",You have selected withdrawal .,B --> A
+te_587_5_1 --> te_587_5_2,I know what I selected .,"Yeah , yeah ,",A --> A
+te_587_5_2 --> te_587_5_3,Just gimme my money !,I know what I selected .,A --> A
+te_587_5_3 --> te_587_6_1,Please type the amount you would like to withdraw .,Just gimme my money !,A --> B
+te_587_6_1 --> te_587_6_2,"Thank you , you want to transfer 10000 USD to the World Wildlife Foundation .",Please type the amount you would like to withdraw .,B --> B
+te_587_6_2 --> te_587_6_3,If this is correct please press 1 .,"Thank you , you want to transfer 10000 USD to the World Wildlife Foundation .",B --> B
+te_587_6_3 --> te_587_7_1,"No , no !",If this is correct please press 1 .,B --> A
+te_587_7_1 --> te_587_7_2,"Stupid machine , what are you doing !","No , no !",A --> A
+te_587_7_2 --> te_587_7_3,No !,"Stupid machine , what are you doing !",A --> A
+te_587_7_3 --> te_587_8_1,Confirmed .,No !,A --> B
+te_587_8_2 --> te_587_8_3,Please remove your card from the slot .,Thank you for using our bank !,B --> B
+te_587_8_3 --> te_587_8_4,Goodbye !,Please remove your card from the slot .,B --> B
+te_587_9_3 --> te_587_10_1,"Danger , danger !",Give me my money !,A --> B
+te_587_10_2 --> te_587_10_3,Thank you for using our bank .,The exits have been sealed and the doors will remain locked in until the local authorities arrive .,B --> B
+te_587_10_3 --> te_587_10_4,Have a nice day .,Thank you for using our bank .,B --> B
+tr_10358_1_1 --> tr_10358_1_2,Would you give me a piece of advice ?,I don't know how to adjust my life .,A --> A
+tr_10358_1_2 --> tr_10358_3_1,"Yes , I can't sleep well every night .",Would you give me a piece of advice ?,A --> A
+tr_10358_3_1 --> tr_10358_5_1,I drink a lot of wine .,"Yes , I can't sleep well every night .",A --> A
+tr_10358_5_1 --> tr_10358_7_1,I often feel so tired .,I drink a lot of wine .,A --> A
+tr_10358_8_1 --> tr_10358_9_1,I sometimes find the shadow of death in front of me .,You better do some exercise every morning .,B --> A
+tr_10358_10_3 --> tr_10620_8_1,Thanks .,I hope you take my advice .,B --> B
