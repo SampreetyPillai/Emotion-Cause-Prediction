@@ -4,7 +4,7 @@
 - Sampreety (2101CS71)
 
 This is an emotion-cause prediction model based on the [RECCON](https://github.com/declare-lab/RECCON) dataset. Given a conversation, it predicts the different clauses, classifies it as emotion and cause and predict which clause causes which emotion.
-More details about functionality and work distribution can be found here: [NLP Group 18](https://docs.google.com/document/d/1Bl2ZmMzaWTTJcmmgHuHSRPaB1WfIAHjRFZ-xuo3cjEM/edit?usp=sharing)
+[Code explanation and work distribution](https://docs.google.com/document/d/1Bl2ZmMzaWTTJcmmgHuHSRPaB1WfIAHjRFZ-xuo3cjEM/edit?usp=sharing)
 
 
 # Directories 
