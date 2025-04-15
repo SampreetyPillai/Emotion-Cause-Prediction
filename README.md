@@ -16,7 +16,5 @@ This is an emotion-cause prediction model based on the RECCON dataset. Given a c
 - ## Task 2:
   - Using the processed_train.csv and processed_test.csv generate annotated_output3.csv and annotated_output3_test.csv using task2.ipynb. These classify the clauses as emotion, clause, neither or both.
 - ## Task 3:
-  -   Using the processed_train.csv and processed_test.csv generate node_embeddings3.csv and node_embeddings_test3.csv using task3_embeddings.ipynb. These break down the clauses into numerical vector embeddings.
-  -   Now using the above generated files, process task3_train.ipynb ( auxilliary files node_embeddings_svo and node_embeddings_svo_test.csv are generated which utilise subct verb object extraction). The final output after running the code would give a file called test_predictions.csv.
-  -   Using test_predictions.csv run task3_predictions.ipynb to get the final emotion_cause_prediction.ipynb
+  -   Using the annotated_output3.csv and annotated_output3_test.csv run task3_embeddings.ipynb, task3_train.ipynb and task3_predictions.ipynb one after the other in order. node_embeddings3.csv, node_embeddings_test3.csv and test_prediction.csv would be generated which have to be used as input in the subsequent files. Here, the code generates embeddings from the given clauses and then uses it to produce a graph that can be trained by DyGCN. The final output file is stored in the results folder calles emotion_cause_predictions.csv.
 
