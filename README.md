@@ -5,6 +5,7 @@
 
 This is an emotion-cause prediction model based on the [RECCON](https://github.com/declare-lab/RECCON) dataset. Given a conversation, it predicts the different clauses, classifies it as emotion and cause and predict which clause causes which emotion.
 [Code explanation and work distribution](https://docs.google.com/document/d/1Bl2ZmMzaWTTJcmmgHuHSRPaB1WfIAHjRFZ-xuo3cjEM/edit?usp=sharing)
+[Code demo video](https://drive.google.com/file/d/1svsmUIYMq_lnDu5i3iYNbQJemY70MoPP/view?usp=sharing)
 
 
 # Directories 
