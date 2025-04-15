@@ -14,9 +14,9 @@ This is an emotion-cause prediction model based on the [RECCON](https://github.c
 
 # How to run
 - ## Task 1:
-  - Using input data files(dailydialog_train.json and dailydilog_test.json) generate processed_train.csv and processed_test.csv using task1.ipynb. These break down the raw data into converstions with ids and their clauses.
+  - Using input data files(dailydialog_train.json and dailydilog_test.json) generate processed_train.csv and processed_test.csv using task1.ipynb. These **break down the raw data into converstions with ids** and their clauses.
 - ## Task 2:
-  - Using the processed_train.csv and processed_test.csv generate annotated_output3.csv and annotated_output3_test.csv using task2.ipynb. These classify the clauses as emotion, clause, neither or both.
+  - Using the processed_train.csv and processed_test.csv generate annotated_output3.csv and annotated_output3_test.csv using task2.ipynb. These **classify the clauses as emotion, clause, neither or both**.
 - ## Task 3:
-  -   Using the annotated_output3.csv and annotated_output3_test.csv run task3_embeddings.ipynb, task3_train.ipynb and task3_predictions.ipynb one after the other in order. node_embeddings3.csv, node_embeddings_test3.csv and test_prediction.csv would be generated which have to be used as input in the subsequent files. Here, the code generates embeddings from the given clauses and then uses it to produce a graph that can be trained by DyGCN. The final output file is stored in the results folder calles emotion_cause_predictions.csv.
+  -   Using the annotated_output3.csv and annotated_output3_test.csv run task3_embeddings.ipynb, task3_train.ipynb and task3_predictions.ipynb one after the other in order. node_embeddings3.csv, node_embeddings_test3.csv and test_prediction.csv would be generated which have to be used as input in the subsequent files. Here, the code **generates embeddings from the given clauses** and then **uses it to produce a graph that can be trained by DyGCN**. The final output file is stored in the results folder calles emotion_cause_predictions.csv.
 
